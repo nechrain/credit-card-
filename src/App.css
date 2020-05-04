@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+P{
+  font-family: Goudy Old Style;
+  font-size: 60PX;
+  color: rgb(206, 206, 21);
+  font-weight:200;
+  
+  position:ABSOLUTE;
+  margin-left: 300px;
+  
+}

@@ -1,0 +1,32 @@
+.entrer{
+    float: left;
+    display: table-column;
+    margin-top: 190px;
+    justify-content: space-evenly;
+    background-color: rgb(135, 212, 222);
+    margin-left: 20px;
+    position: absolute;
+    margin-bottom: 400px;
+    border-radius: 8%;
+    
+}
+input{
+    height: 70px;
+    margin-top: 15px;
+    width: 200px;
+    margin-left: 100px;
+    border: rgb(238, 223, 87) 5px solid;
+    border-radius: 8%;
+    margin-right: 100px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: larger;
+}
+.sortie{
+    float: right;
+    margin-top: 100px;
+}
+h1{color: white;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 50px; 
+}
